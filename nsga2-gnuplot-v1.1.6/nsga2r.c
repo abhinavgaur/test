@@ -9,7 +9,8 @@
 # include "rand.h"
 
 int nreal;
-int nbin;
+/*a github comment*/
+int nbin;int testvariable;
 int nobj;
 int ncon;
 int popsize;
